@@ -1,0 +1,2 @@
+# wg
+Wire guard setting 
